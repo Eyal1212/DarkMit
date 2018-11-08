@@ -1,0 +1,17 @@
+{
+  "name": "darkbit",
+  "version": "1.0.0",
+  "description": "This Is The Best Bot EVER!!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EBS",
+  "license": "MIT",
+  "dependencies": {
+    "attachment": "0.1.0-rc2",
+    "discord.js": "^11.4.2",
+    "ffmpeg": "0.0.4",
+    "node-opus": "^0.3.1"
+  }
+}
