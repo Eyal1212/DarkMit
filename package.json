@@ -2,7 +2,7 @@
   "name": "darkbit",
   "version": "1.0.0",
   "description": "This Is The Best Bot EVER!!",
-  "main": "app.js",
+  "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
