@@ -90,5 +90,4 @@ bot.on('message', msg =>{
         
     }
 })
-bot.login(conf.token);
-console.log("Connected")
+
